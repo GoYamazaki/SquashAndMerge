@@ -1,1 +1,21 @@
 # SquashAndMerge
+
+- a
+- b
+- f
+- g
+- hello
+- ironic
+- jean
+- keep
+- love
+- m
+- n
+- o
+- p
+- quiet
+- rest
+- star
+- tuna
+- u
+- v
